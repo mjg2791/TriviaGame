@@ -1,0 +1,17 @@
+html, 
+body {
+	height: 100%;
+}
+
+body {
+	text-align: center;
+	background-image: url("../images/bckgnd.png");
+}
+
+#wrapper {
+	width: 900px;
+	box-sizing: border-box;
+	padding: 5% 0;
+	margin: 5% auto;
+	background-color: #3B1571FF;
+}
