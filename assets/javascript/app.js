@@ -26,6 +26,14 @@ const game = {
 	countdown: function() {
 		game.counter--;
 		$("#counter-number").html(game.counter);
-		if()
+		if(game-counter === 0) {
+			console.log("time is up!");
+			game.done();
+		}
 	}
+
+
+
+
+
 }
