@@ -15,3 +15,8 @@ body {
 	margin: 5% auto;
 	background-color: #3B1571FF;
 }
+
+#sub-wrapper {
+  position: relative;
+  top: 20%;
+}
